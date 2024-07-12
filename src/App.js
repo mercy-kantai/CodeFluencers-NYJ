@@ -11,9 +11,9 @@ function App() {
     <div>
     <Navbar/> 
     <VideoSection/>
+    <Podcast/>
     <WritingSection/>
     <Project/>
-    <Podcast/>
     <Portfolio/>
     </div>
   );
