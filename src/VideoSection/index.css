@@ -1,0 +1,52 @@
+.overall {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  height: 100px;
+  
+  
+}
+
+
+
+
+.videoSection {
+  margin-top: 20px;
+}
+
+.overall .h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+
+h4{
+color: black;
+}
+
+.hr {
+  flex: 1;
+  height: 1px;
+  background-color: #000;
+  border-top: 1px dotted red;
+  margin: 20px 20px;
+ 
+}
+h1{
+  color: #000;
+}
+
+.videoThumbnail {
+  max-width: 100%;
+  height: auto;
+  border: none;
+  
+}
+
+.videoContent {
+  margin-top: 20px;
+
+}
+
