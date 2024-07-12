@@ -25,9 +25,11 @@ width: 300%;
 .book-intro{
     width: 100%;
 }
+button{
+    color: #000;
+}
 .read-more{
     border-width: 2px 2px 2px 2px;
-    color:rgb(237, 122, 122) ;
     color: black;
     padding: 15px 32px;
     font-family: poppins;

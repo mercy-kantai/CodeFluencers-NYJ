@@ -3,7 +3,7 @@
   padding: 20px;
 }
 .videoSection {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .h1 {
   display: flex;
@@ -25,4 +25,7 @@
 .videoContent {
   margin-top: 20px;
 }
-
+.link{
+  width: 1700px;
+  height: 900px;
+}
