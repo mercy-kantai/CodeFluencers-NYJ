@@ -1,0 +1,46 @@
+
+.BookArticle body{
+    font-size: 20px;
+    line-height: 1.8;
+    margin: 10%;
+
+}
+.trevor-noah{
+    display: flex;
+    flex-direction: row;
+    gap: 30%;
+    border-bottom: 5px solid rgb(25, 53, 12);
+}
+.BookArticle body p{
+    color: black;
+}
+
+.trevor-noah img{
+border-radius: 50%; 
+width: 420%;
+
+}
+.book-intro{
+    width: 100%;
+}
+.read-more{
+    border-width: 2px 2px 2px 2px;
+    color:rgb(237, 122, 122) ;
+    color: black;
+    padding: 15px 32px;
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 35%;
+    text-decoration: none;
+    margin-left: 40%;
+    margin-bottom: 2%;
+    display: inline-block;
+    font-size: 16px;
+}
+.read-more:hover{
+background-color:rgb(237, 122, 122)  ;
+    color: black;
+    font-weight: bolder;
+}
