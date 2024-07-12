@@ -1,14 +1,16 @@
 
+.articles-container p{
+color: #000;
+}
 .BookArticle body{
     font-size: 20px;
     line-height: 1.8;
-    margin: 10%;
-
 }
+
 .trevor-noah{
     display: flex;
     flex-direction: row;
-    gap: 30%;
+    gap: 20%;
     border-bottom: 5px solid rgb(25, 53, 12);
 }
 .BookArticle body p{
@@ -17,7 +19,7 @@
 
 .trevor-noah img{
 border-radius: 50%; 
-width: 420%;
+width: 300%;
 
 }
 .book-intro{
