@@ -2,6 +2,7 @@
 import Navbar from './Homepage';
 import VideoSection from './VideoSection';
 import Podcast from "./Podcast";
+import Portfolio from './Portfolio';
 
 
 
@@ -11,6 +12,7 @@ function App() {
     <Navbar/> 
     <VideoSection/>
     <Podcast/>
+    <Portfolio/>
     </div>
   );
 }
