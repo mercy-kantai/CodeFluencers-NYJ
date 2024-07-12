@@ -1,4 +1,4 @@
-.articles-container body {
+.articles-container{
   font-size: 20px;
   line-height: 1.8;
   margin: 10%;
@@ -39,7 +39,7 @@
   font-weight: bolder;
 }
 @media (min-width: 279px) and (max-width: 500px) {
-    body {
+  .articles-container{
         font-size: 20px;
         line-height: 1.0;
         margin: 10%;

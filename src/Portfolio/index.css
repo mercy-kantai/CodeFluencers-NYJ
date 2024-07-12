@@ -1,5 +1,5 @@
 
-h1{
+.container h1{
     text-align: center;
     color: white;
 }
@@ -51,7 +51,7 @@ h1{
     font-size: large;
     color: white;
 }
-h2{
+.container h2{
     text-align: center;
     color: white;
 }
