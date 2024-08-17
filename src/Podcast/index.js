@@ -25,7 +25,9 @@ const Podcast = ()=>{
                     <br/>
                     <input type='placeholder' className='play'></input>
                     <br/>
-                    <img src="/image/playbutton.png" alt="button" className='playbutton'/>
+                    <a href="https://drive.google.com/file/d/1wH4Mz-KqSBTy5nqWCfieHQCAQKGsgbVL/view?usp=drive_link" target="_blank">
+                   <img src="/image/playbutton.png" alt="button" className='playbutton'/>
+                   </a>
         
 
                 </div>

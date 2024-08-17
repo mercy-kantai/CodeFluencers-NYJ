@@ -1,6 +1,6 @@
 .Navbar-container{
   display: flex;
-  gap: 30px;
+  gap: 20px;
   align-items: center;
   position: relative;
   height: 150px;
@@ -18,7 +18,7 @@
 }
 .show-nav{
   display: flex;
-  gap: 200px;
+  gap: 150px;
   margin-right: 17px;
   font-size: larger;
   z-index: 1001;
