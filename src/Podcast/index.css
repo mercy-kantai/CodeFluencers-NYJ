@@ -59,9 +59,9 @@ ul{
 }
 .playbutton{
     position: absolute;
-    padding-bottom: 4%;
+    padding-bottom: 6%;
     transform: translate(-50% ,-40%);
-    padding-left: 19.9%;
+    padding-left: 29%;
     height: 67px;
     width: 65px;
 }

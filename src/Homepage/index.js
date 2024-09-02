@@ -10,7 +10,7 @@ function Navbar(){
         <div className='Homepage-body'>
         <div className='Navbar-container'>
             <div className='logo-image'>
-            <img src='/media/logo.png' alt='logo' className='logo-image'/>
+            <img src='/images/logo.png' alt='logo' className='logo-image'/>
             </div>
             <div className={`hamburger-menu ${isMenuOpen? 'active': ''}`} onClick={toggleMenu}>
                     <span></span>
